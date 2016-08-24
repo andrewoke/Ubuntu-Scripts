@@ -1,0 +1,3 @@
+[submodule "linux-vfio"]
+	path=linux-vfio
+	url=https://aur.archlinux.org/linux-vfio.git
